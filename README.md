@@ -1,6 +1,6 @@
 # House of Wendi Link Hub
 
-Beautiful, single-page link tree for House of Wendi, built with Vue 3 + Vite.
+Beautiful, single-page link tree for House of Wendi, built with Vue 3 + Vite
 
 ## Getting Started
 
